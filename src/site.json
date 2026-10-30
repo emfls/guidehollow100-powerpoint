@@ -14,7 +14,8 @@
     "공동 편집·검수"
   ],
   "url": "https://powerpoint.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "section": "파워포인트 활용",
-  "pageTitle": "파워포인트 슬라이드·오류 해결 가이드 | GuideHollow"
+  "pageTitle": "파워포인트 슬라이드·오류 해결 가이드 | GuideHollow",
+  "adsReady": false
 }
