@@ -1,0 +1,18 @@
+{
+  "title": "GuideHollow PowerPoint",
+  "slug": "powerpoint",
+  "short": "PowerPoint",
+  "hero": "Build clearer slides with fewer surprises.",
+  "description": "PowerPoint design, charts, fonts and presentation troubleshooting.",
+  "accent": "#d36b35",
+  "topics": [
+    "Layouts",
+    "Fonts and media",
+    "Charts",
+    "Export",
+    "Presenter tools",
+    "Collaboration"
+  ],
+  "url": "https://powerpoint.guidehollow.com/",
+  "launchReady": false
+}
