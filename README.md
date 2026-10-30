@@ -1,19 +1,8 @@
-# GuideHollow PowerPoint
+# GuideHollow · 파워포인트
 
-Independent GuideHollow 100 static blog. Other GuideHollow repositories are not used.
+한국어 파워포인트 활용 블로그입니다.
 
-## Run
-
-    npm install
-    npm run dev
-    npm run build
-
-## Deploy
-1. Configure Settings > Pages > Source: GitHub Actions.
-2. Add the custom domain powerpoint.guidehollow.com in GitHub Pages settings and configure Gabia DNS CNAME to the GitHub Pages hostname.
-3. Verify Pages deployment, SSL, domain and content QA.
-4. Set launchReady to true in src/site.json only after approval.
-
-## Editorial gate
-Guides live under src/content/guides/*.md. Both reviewed: true and draft: false are required, and the site must have launchReady: true.
-Notion drafts are NOT imported automatically; no existing publisher is connected.
+- `npm install`, `npm run build`
+- 원고 필수: `language: ko`, `draft: false`, `reviewed: true`, 출처
+- `launchReady: false`: 광고·원고 공개·색인 금지
+- 쿠팡 배너·애드센스 자동 광고 설정 유지
