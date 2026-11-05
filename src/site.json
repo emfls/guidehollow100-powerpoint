@@ -2,8 +2,8 @@
   "title": "GuideHollow",
   "slug": "powerpoint",
   "short": "파워포인트",
-  "hero": "발표 자료가 생각처럼 나오지 않을 때 해결 방법을 찾아보세요.",
-  "description": "슬라이드 배치, 글꼴·이미지 문제, 차트, 발표 화면과 내보내기 방법을 쉽게 안내합니다.",
+  "hero": "슬라이드 화면 비율",
+  "description": "정확한 정수 비율과 16:9·4:3 중 더 가까운 비율을 표시합니다.",
   "accent": "#d36b35",
   "topics": [
     "슬라이드·레이아웃",
@@ -16,7 +16,8 @@
   "url": "https://powerpoint.guidehollow.com/",
   "launchReady": true,
   "section": "파워포인트 활용",
-  "pageTitle": "파워포인트 슬라이드·오류 해결 가이드 | GuideHollow",
+  "pageTitle": "슬라이드 화면 비율 | GuideHollow",
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
